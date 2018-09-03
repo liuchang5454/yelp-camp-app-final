@@ -1,4 +1,9 @@
-#YelpCamp
+#YelpCamp App Final
+
+* This is the final version of the yelp camp app. The same as the Heroku deployed version.
+* Removed the info sidebar on the campground show page.  
+* Campground location is displayed on the google map.
+
 
 ##Initial Setup
 * Add Landing Page
