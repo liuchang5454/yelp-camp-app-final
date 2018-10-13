@@ -4,3 +4,4 @@
 - Designed and developed views/templates using the EJS template engine.
 - Built the server end and created RESTful API with Express in Node. Defined data models in MongoDB.
 
+- revert to the version before the Heroku deployment. 
